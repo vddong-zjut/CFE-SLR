@@ -1,2 +1,2 @@
 # CFE-SLR
-Repository For Paper "Counterfactual-Enhance Cross-Modal Continuous Sign Language Recognition"
+Repository For Paper "Counterfactual-Enhanced Cross-Modal Continuous Sign Language Recognition"
